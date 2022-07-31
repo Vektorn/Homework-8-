@@ -1,46 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5d7a04f-4a70-42ac-a6cf-ae49be833d43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/Engine8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/Engine9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/Tanker10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework5/n7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework8/Shape.java" afterDir="false" />
+    <list default="true" id="f5d7a04f-4a70-42ac-a6cf-ae49be833d43" name="Changes" comment="Create Shape class">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework8/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework8/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework8/EquilateralTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework8/Far.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework8/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework8/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,6 +137,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659203496308</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create Shape class">
+      <created>1659294896310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659294896310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,5 +157,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creat Shape class" />
+    <MESSAGE value="Create Shape class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Shape class" />
   </component>
 </project>
