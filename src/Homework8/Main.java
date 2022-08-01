@@ -3,19 +3,14 @@ package Homework8;
 public class Main {
     public static void main(String[] args) {
         Circle circle = new Circle(1);
-        circle.printName();
-        System.out.println(new Far().print(circle));
+        System.out.print(new Far().print(circle)+" :"); circle.printName();
         Cylinder cylinder =new Cylinder(1,2);
-        cylinder.printName();
-        System.out.println(new Far().print(cylinder));
+        System.out.print(new Far().print(cylinder)+" :");cylinder.printName();
         EquilateralTriangle equilateralTriangle = new EquilateralTriangle(5,6);
-        equilateralTriangle.printName();
-        System.out.println(new Far().print(equilateralTriangle));
+        System.out.print(new Far().print(equilateralTriangle)+" :");equilateralTriangle.printName();
         Rectangle rectangle =new Rectangle(2,3);
-        rectangle.printName();
-        System.out.println(new Far().print(rectangle));
+        System.out.print(new Far().print(rectangle)+" :");rectangle.printName();
         Square square =new Square(4);
-        square.printName();
-        System.out.println(new Far().print(square));
+        System.out.print(new Far().print(square)+" :");square.printName();
     }
 }
