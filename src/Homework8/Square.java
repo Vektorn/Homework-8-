@@ -17,6 +17,6 @@ class Square extends Shape{
         return Area;
     }
     public void printName(){
-        System.out.println("Фігура = квадрат, площа = "+getArea());
+        System.out.println("площа = "+getArea());
     }
 }

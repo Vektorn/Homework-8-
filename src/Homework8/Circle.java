@@ -18,6 +18,6 @@ class Circle extends Shape  {
         return Area;
     }
     public void printName(){
-        System.out.println("Фігура = коло, площа = "+getArea());
+        System.out.println("площа = "+getArea());
     }
 }

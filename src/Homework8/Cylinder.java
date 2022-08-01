@@ -26,6 +26,6 @@ class Cylinder extends Shape  {
         return area;
     }
     public void printName(){
-        System.out.println("Фігура = циліндр, площа = "+getArea());
+        System.out.println("площа = "+getArea());
     }
 }

@@ -25,6 +25,6 @@ class EquilateralTriangle extends Shape{
         return Area;
     }
     public void printName(){
-        System.out.println("Фігура = рівньосторонній трикутник, площа = "+getArea());
+        System.out.println("площа = "+getArea());
     }
 }
