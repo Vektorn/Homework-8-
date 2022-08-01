@@ -16,5 +16,6 @@ public class Main {
         System.out.println(new Far().print(rectangle));
         System.out.println(new Far().print(equilateralTriangle));
         System.out.println(new Far().print(square));
+        System.out.println(new Far().print(cylinder));
     }
 }
