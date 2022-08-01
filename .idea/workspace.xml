@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5d7a04f-4a70-42ac-a6cf-ae49be833d43" name="Changes" comment="Create Shape class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/EquilateralTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/EquilateralTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659344909420</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Create Shape class">
+      <created>1659345825195</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659345825195</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -20,11 +20,9 @@ class EquilateralTriangle extends Shape{
         this.h=h;
     }
     public double getArea() {
-        double Area;
-        Area=(a*h)/2;
-        return Area;
+        return (a*h)/2;
     }
     public void printName(){
-        System.out.println("площа = "+getArea());
+        System.out.println("площа фігури = "+getArea());
     }
 }

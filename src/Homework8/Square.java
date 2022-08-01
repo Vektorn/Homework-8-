@@ -12,11 +12,9 @@ class Square extends Shape{
         this.a=a;
     }
     public double getArea() {
-        double Area;
-        Area=a*a;
-        return Area;
+        return a*a;
     }
     public void printName(){
-        System.out.println("площа = "+getArea());
+        System.out.println("площа фігури = "+getArea());
     }
 }

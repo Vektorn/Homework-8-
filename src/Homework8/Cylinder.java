@@ -21,11 +21,9 @@ class Cylinder extends Shape  {
         this.h=h;
     }
     public double getArea() {
-        double area;
-        area=2*Math.PI*r*(r+h);
-        return area;
+        return 2*Math.PI*r*(r+h);
     }
     public void printName(){
-        System.out.println("площа = "+getArea());
+        System.out.println("площа фігури = "+getArea());
     }
 }

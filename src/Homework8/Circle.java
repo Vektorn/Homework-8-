@@ -13,11 +13,9 @@ class Circle extends Shape  {
         this.r =r;
     }
     public double getArea() {
-        double Area;
-        Area=r*r*Math.PI;
-        return Area;
+        return r*r*Math.PI;
     }
     public void printName(){
-        System.out.println("площа = "+getArea());
+        System.out.println("площа фігури = "+getArea());
     }
 }

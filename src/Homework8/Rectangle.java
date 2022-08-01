@@ -20,11 +20,9 @@ class Rectangle extends Shape{
         this.b=b;
     }
     public double getArea() {
-        double Area;
-        Area=a*b;
-        return Area;
+        return a*b;
     }
     public void printName(){
-        System.out.println("площа = "+getArea());
+        System.out.println("площа фігури = "+getArea());
     }
 }
