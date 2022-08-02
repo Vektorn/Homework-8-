@@ -23,7 +23,7 @@ class Cylinder extends Shape  {
     public double getArea() {
         return 2*Math.PI*r*(r+h);
     }
-    public void printName(){
-        System.out.println("площа фігури = "+getArea());
+    public String printName(){
+        return getClass().getSimpleName()+" площа фігури = "+getArea();
     }
 }

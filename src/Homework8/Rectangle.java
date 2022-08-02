@@ -22,7 +22,7 @@ class Rectangle extends Shape{
     public double getArea() {
         return a*b;
     }
-    public void printName(){
-        System.out.println("площа фігури = "+getArea());
+    public String printName(){
+        return getClass().getSimpleName()+" площа фігури = "+getArea();
     }
 }

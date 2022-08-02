@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5d7a04f-4a70-42ac-a6cf-ae49be833d43" name="Changes" comment="Create Shape class" />
+    <list default="true" id="f5d7a04f-4a70-42ac-a6cf-ae49be833d43" name="Changes" comment="Create Shape class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/EquilateralTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/EquilateralTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Far.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework8/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Square.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,14 +54,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="FirTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework5.FirTest1" />
@@ -193,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659346096861</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Create Shape class">
+      <created>1659350404149</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659350404149</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
