@@ -1,6 +1,6 @@
 package Homework8;
 
-class EquilateralTriangle extends Shape{
+abstract class EquilateralTriangle extends Shape{
 
     public double getA() {
         return a;
@@ -17,6 +17,7 @@ class EquilateralTriangle extends Shape{
     }
     private double h;
     public EquilateralTriangle(double a,double h){
+        name = "Рівносторонній трикутник";
         this.a=a;
         this.h=h;
 
@@ -25,6 +26,6 @@ class EquilateralTriangle extends Shape{
         return (a*h)/2;
     }
     public String printName(){
-        return getClass().getSimpleName()+" площа фігури = "+getArea();
+        return GetName()+" площа фігури = "+getArea();
     }
 }

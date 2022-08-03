@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/src/Homework8/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homework8/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Cylinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homework8/EquilateralTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/EquilateralTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework8/Far.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homework8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homework8/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homework8/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework8/Shape.java" afterDir="false" />
@@ -213,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659350404149</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Create Shape class">
+      <created>1659451696403</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1659451696403</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

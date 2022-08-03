@@ -1,6 +1,6 @@
 package Homework8;
 
-class Circle extends Shape  {
+abstract class Circle extends Shape{
     public double getR() {
         return r;
     }
@@ -10,12 +10,13 @@ class Circle extends Shape  {
     private double r;
 
     public Circle(double r){
+        name = "Коло";
         this.r =r;
     }
     public double getArea() {
         return r*r*Math.PI;
     }
     public String  printName(){
-        return getClass().getSimpleName()+" площа фігури = "+getArea();
+        return GetName()+" площа фігури = "+getArea();
     }
 }

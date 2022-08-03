@@ -1,6 +1,6 @@
 package Homework8;
 
-class Square extends Shape{
+abstract class Square extends Shape{
     public double getA() {
         return a;
     }
@@ -9,12 +9,13 @@ class Square extends Shape{
     }
     private double a;
     public Square(double a){
+        name ="Квадрат";
         this.a=a;
     }
     public double getArea() {
         return a*a;
     }
     public String printName(){
-        return getClass().getSimpleName()+" площа фігури = "+getArea();
+        return GetName()+" площа фігури = "+getArea();
     }
 }

@@ -1,6 +1,6 @@
 package Homework8;
 
-class Cylinder extends Shape  {
+abstract class Cylinder extends Shape  {
     public double getR() {
         return r;
     }
@@ -17,6 +17,7 @@ class Cylinder extends Shape  {
     }
     private double h;
     public Cylinder(double r,double h){
+        name = "Циліндр";
         this.r =r;
         this.h=h;
     }
@@ -24,6 +25,6 @@ class Cylinder extends Shape  {
         return 2*Math.PI*r*(r+h);
     }
     public String printName(){
-        return getClass().getSimpleName()+" площа фігури = "+getArea();
+        return GetName()+" площа фігури = "+getArea();
     }
 }

@@ -1,6 +1,6 @@
 package Homework8;
 
-class Rectangle extends Shape{
+abstract class Rectangle extends Shape{
     public double getA() {
         return a;
     }
@@ -16,6 +16,7 @@ class Rectangle extends Shape{
     }
     private double b;
     public Rectangle(double a,double b){
+        name ="Прямокутник";
         this.a=a;
         this.b=b;
     }
@@ -23,6 +24,6 @@ class Rectangle extends Shape{
         return a*b;
     }
     public String printName(){
-        return getClass().getSimpleName()+" площа фігури = "+getArea();
+        return GetName()+" площа фігури = "+getArea();
     }
 }
